@@ -19,12 +19,6 @@
 [submodule "wordpress"]
 	path = wordpress
 	url = git@github.com:puffinrocks/wordpress
-[submodule "_mail"]
-	path = _mail
-	url = git@github.com:puffinrocks/mail
-[submodule "_proxy"]
-	path = _proxy
-	url = git@github.com:puffinrocks/proxy
 [submodule "ttrss"]
 	path = ttrss
 	url = git@github.com:puffinrocks/ttrss
@@ -34,3 +28,30 @@
 [submodule "piwik"]
 	path = piwik
 	url = git@github.com:puffinrocks/piwik.git
+[submodule "bimserver"]
+	path = bimserver
+	url = https://github.com/jenca-cloud/bimserver.git
+[submodule "models.autodesk.io"]
+	path = models.autodesk.io
+	url = https://github.com/jenca-cloud/Forge-Model-Convert.git
+[submodule "unifluxx"]
+	path = unifluxx
+	url = https://github.com/jenca-cloud/unifluxx.git
+[submodule "openmaint"]
+	path = openmaint
+	url = https://github.com/jenca-cloud/openmaint.git
+[submodule "slackin-buildingsmart"]
+	path = slackin-buildingsmart
+	url = https://github.com/jenca-cloud/slackin-buildingsmart.git
+[submodule "vrbim"]
+	path = vrbim
+	url = https://github.com/jenca-cloud/vrbim.git
+[submodule "slackin-jenca"]
+	path = slackin-jenca
+	url = https://github.com/jenca-cloud/slackin-jenca.git
+[submodule "_proxy"]
+	path = _proxy
+	url = https://github.com/puffinrocks/proxy.git
+[submodule "_mail"]
+	path = _mail
+	url = https://github.com/puffinrocks/mail.git

@@ -1,9 +1,18 @@
-### Vim ###
-[._]*.s[a-w][a-z]
-[._]s[a-w][a-z]
-*.un~
-Session.vim
-.netrwhist
-*~
-
-
+logs
+*.log
+npm-debug.log*
+pids
+*.pid
+*.seed
+.lock-wscript
+node_modules
+.npm
+config.prod.js
+*.bak.*
+*.hgt
+*.png
+ssl
+TODO
+config.js
+secrets.yaml
+*.DS_Store
