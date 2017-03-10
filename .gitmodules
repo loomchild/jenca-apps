@@ -1,33 +1,9 @@
 [submodule "ghost"]
 	path = ghost
-	url = git@github.com:puffinrocks/ghost
-[submodule "flarum"]
-	path = flarum
-	url = git@github.com:puffinrocks/flarum
-[submodule "gogs"]
-	path = gogs
-	url = git@github.com:puffinrocks/gogs
+	url = https://github.com/puffinrocks/ghost.git
 [submodule "owncloud"]
 	path = owncloud
-	url = git@github.com:puffinrocks/owncloud
-[submodule "redmine"]
-	path = redmine
-	url = git@github.com:puffinrocks/redmine
-[submodule "rocketchat"]
-	path = rocketchat
-	url = git@github.com:puffinrocks/rocketchat
-[submodule "wordpress"]
-	path = wordpress
-	url = git@github.com:puffinrocks/wordpress
-[submodule "ttrss"]
-	path = ttrss
-	url = git@github.com:puffinrocks/ttrss
-[submodule "wallabag"]
-	path = wallabag
-	url = git@github.com:puffinrocks/wallabag.git
-[submodule "piwik"]
-	path = piwik
-	url = git@github.com:puffinrocks/piwik.git
+	url = https://github.com/puffinrocks/owncloud.git
 [submodule "bimserver"]
 	path = bimserver
 	url = https://github.com/jenca-cloud/bimserver.git
