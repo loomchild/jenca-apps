@@ -1,9 +1,6 @@
 [submodule "ghost"]
 	path = ghost
 	url = https://github.com/puffinrocks/ghost.git
-[submodule "owncloud"]
-	path = owncloud
-	url = https://github.com/puffinrocks/owncloud.git
 [submodule "bimserver"]
 	path = bimserver
 	url = https://github.com/jenca-cloud/bimserver.git
@@ -31,3 +28,6 @@
 [submodule "_mail"]
 	path = _mail
 	url = https://github.com/puffinrocks/mail.git
+[submodule "owncloud"]
+	path = owncloud
+	url = https://github.com/puffinrocks/owncloud.git
