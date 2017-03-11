@@ -31,3 +31,6 @@
 [submodule "owncloud"]
 	path = owncloud
 	url = https://github.com/puffinrocks/owncloud.git
+[submodule "theBIMportal"]
+	path = theBIMportal
+	url = https://github.com/jenca-cloud/theBIMportal.git
