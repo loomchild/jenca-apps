@@ -34,3 +34,6 @@
 [submodule "theBIMportal"]
 	path = theBIMportal
 	url = https://github.com/jenca-cloud/theBIMportal.git
+[submodule "Speckle-Server"]
+	path = Speckle-Server
+	url = git@github.com:bigdoods/Speckle-Server.git
