@@ -1,6 +1,3 @@
-[submodule "ghost"]
-	path = ghost
-	url = https://github.com/puffinrocks/ghost.git
 [submodule "bimserver"]
 	path = bimserver
 	url = https://github.com/jenca-cloud/bimserver.git
@@ -9,7 +6,7 @@
 	url = https://github.com/jenca-cloud/Forge-Model-Convert.git
 [submodule "unifluxx"]
 	path = unifluxx
-	url = https://github.com/jenca-cloud/unifluxx.git
+	url = https://github.com/loomchild/unifluxx.git
 [submodule "openmaint"]
 	path = openmaint
 	url = https://github.com/jenca-cloud/openmaint.git
@@ -28,9 +25,6 @@
 [submodule "_mail"]
 	path = _mail
 	url = https://github.com/puffinrocks/mail.git
-[submodule "owncloud"]
-	path = owncloud
-	url = https://github.com/puffinrocks/owncloud.git
 [submodule "theBIMportal"]
 	path = theBIMportal
 	url = https://github.com/jenca-cloud/theBIMportal.git
