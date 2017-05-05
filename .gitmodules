@@ -31,3 +31,6 @@
 [submodule "Speckle-Server"]
 	path = Speckle-Server
 	url = https://github.com/bigdoods/Speckle-Server.git
+[submodule "contactfluxx"]
+	path = contactfluxx
+	url = https://github.com/loomchild/contactfluxx
